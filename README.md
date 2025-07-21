@@ -59,7 +59,7 @@ Built using **HTML**, **CSS**, **JavaScript**, **Node.js**, and **CSV data**.
 
 ## 🙋‍♀️ Author
 
-Made with ❤️ by [Krithika Reddy](https://github.com/krithikareddy22)
+Made with ❤️ by [VVSS Mohith](https://github.com/mohi1313)
 
 ---
 
